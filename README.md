@@ -1,2 +1,2 @@
 # hyperblog
-un blog incredible para el curso de plates
+un blog incredible para el curso de platzi
